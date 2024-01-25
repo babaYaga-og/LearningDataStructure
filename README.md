@@ -1,5 +1,5 @@
 # LearningDataStructure
-Date: 25/01/2024 
+Date: 25/01/2024 \n
 For my CS class
 
 # Usage:
@@ -21,3 +21,7 @@ int main()
 	return 0;
 }
 ```
+## TODO
+1. Use Templates
+2. Use smart pointers
+3. ...and whole lot of other things
