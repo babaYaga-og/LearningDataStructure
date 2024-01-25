@@ -5,6 +5,11 @@ For my CS class
 # Usage:
 ## Example:
 ```
+#include <iostream>
+#include "graph.h"
+
+using namespace std;
+
 int main()
 {
 	Graph g;
