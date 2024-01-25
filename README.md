@@ -1,5 +1,5 @@
 # LearningDataStructure
-Date: 25/01/2024 \n
+Date: 25/01/2024  
 For my CS class
 
 # Usage:
