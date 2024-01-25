@@ -1,6 +1,7 @@
 # LearningDataStructure
 Date: 25/01/2024  
-For my CS class
+A custom data structure for my parser  
+(Project for my CS class)
 
 # Usage:
 ## Example:
