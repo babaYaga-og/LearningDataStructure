@@ -5,7 +5,7 @@ A custom data structure for my parser
 
 # Usage:
 ## Example:
-```
+```cpp
 #include <iostream>
 #include "graph.h"
 
